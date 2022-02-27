@@ -1,5 +1,5 @@
 # IPL-Predictor
-Predict score after 6 overs
+Based on historical data predict total runs scored by the batting team, at the end of 6 overs for IPL 2021.
 
 # Problem statement
 Given certain input parameters regarding an innings of a T20 cricket match, predict the total runs scored by the batting team at the end of 6 overs.
