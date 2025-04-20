@@ -27,7 +27,7 @@ Following is a list of python packages that can be imported and used in **predic
 * scipy==1.6.2
 * seaborn==0.11.1
 * tensorflow>=2.11.1
-* torch==1.8.1
+* torch>=2.6.0
 
 # References
 * https://internalapp.nptel.ac.in/contest/contest_details.html
